@@ -2,9 +2,9 @@
 
 My Second version Portfolio utilizes advanced technology to provide a seamless and user-friendly experience for its visitors. The website is built on the popular React Framework, Nextjs. This allows for a fast and responsive design that ensures the website loads quickly and smoothly.
 
-The website also makes use of the latest web design trends and technologies such as CSS Grid and Flexbox. This ensures that the website looks great on all devices, including desktop computers, laptops, tablets, and smartphones.
+The website also makes use of the latest web design trends and technologies such CSS Grid and Flexbox. This ensures that the website looks great on all devices, including desktop computers, laptops, tablets, and smartphones.
 
-## This project was built using these technologies: 
+## This project was built using these technologies and features: 
 
 - Next.js
 - React Icons
@@ -14,6 +14,7 @@ The website also makes use of the latest web design trends and technologies such
 - EmailJS
 - Mouse Move Effect
 - IBM Object Storrage
+- Dark and Light Mode
 
 ## ScreenShots:
 <img width="1415" alt="Screenshot 2023-01-26 at 01 49 46 AM" src="https://user-images.githubusercontent.com/44535117/214710280-29f71d1c-6b9a-4b30-a701-050f573814fd.png">
