@@ -14,6 +14,7 @@ The website also makes use of the latest web design trends and technologies such
 - EmailJS
 - Mouse Move Effect
 - IBM Object Storrage
+- Google Analytics
 - Dark and Light Mode
 
 ## ScreenShots:
