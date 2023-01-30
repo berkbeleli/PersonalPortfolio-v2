@@ -1,6 +1,6 @@
 # PersonalPortfolio-v2
 
-My Second version Portfolio utilizes advanced technology to provide a seamless and user-friendly experience for its visitors. The website is built on the popular React Framework, Nextjs. This allows for a fast and responsive design that ensures the website loads quickly and smoothly.
+Second iteration of my personal portfolio that utilizes advanced technology to provide a seamless and user-friendly experience for its visitors. The website is built on the popular web development framework, Nextjs. This allows for a fast and responsive design that ensures the website loads quickly and smoothly.
 
 The website also makes use of the latest web design trends and technologies such CSS Grid and Flexbox. This ensures that the website looks great on all devices, including desktop computers, laptops, tablets, and smartphones.
 
